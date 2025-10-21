@@ -89,4 +89,6 @@ pip install numpy pandas scikit-learn xgboost==2.0.3 torch matplotlib pyyaml sci
 ---
 
 ## 引用 / Citation
-- データ出典 / Data source: OpenDataSUS — SIVEP-Gripe（SR
+- データ出典 / Data source: OpenDataSUS — SIVEP-Gripe（SRAG 2020）: https://opendatasus.saude.gov.br/dataset/srag-2020  
+- 本コードは研究再現性のために提供されます。論文等での引用時はデータ提供元の規約に従ってください。  
+- 利用許諾 / License: **データは改変不可（不可修改 / No derivatives）**。本リポジトリ内のコードのライセンスは未指定です（必要に応じて追加してください）。
