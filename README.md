@@ -3,6 +3,8 @@
 ブラジル SINASC 出生データを用いて Generalized Neural Additive Model（GNAM）と XGBoost 残差ブースティングを組み合わせた **GNAM–Boost** を実装したリポジトリです。  
 日本のエコチル調査（JECS）への応用を想定した，先天性異常リスク予測のための概念実証シミュレーションを含みます。
 
+データの取得先：ftp://ftp.datasus.gov.br/dissemin/publicos/SINASC/PRELIM/DNRES/DNBR2024.dbc
+
 This repository implements **GNAM–Boost**, an interpretable ensemble that combines a Generalized Neural Additive Model (GNAM) with a residual XGBoost component.  
 The current simulation uses Brazilian SINASC live-birth data as a proof of concept for congenital anomaly risk modeling and is designed to be transferable to the Japan Environment and Children’s Study (JECS).
 
